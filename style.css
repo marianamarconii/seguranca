@@ -1,10 +1,10 @@
  <style>
         /* Variáveis de Cores Padrão (Tema Claro e Amigável) */
         :root {
-            --cor-fundo: #09008a;
-            --cor-cartao: #4455b8;
+            --cor-fundo: #ffffff;
+            --cor-cartao: #f9baff;
             --cor-principal: #d979ff;
-            --cor-principal-hover: #1565c0;
+            --cor-principal-hover: #e570e9;
             --cor-texto: #1a1a1a;
             --cor-borda: #90a4ae;
             --cor-verde-destaque: #1b5e20;
